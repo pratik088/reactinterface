@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactinterface/static/css/main.3b960804.css",
+    "main.js": "/reactinterface/static/js/main.cecebb37.js",
+    "index.html": "/reactinterface/index.html",
+    "main.3b960804.css.map": "/reactinterface/static/css/main.3b960804.css.map",
+    "main.cecebb37.js.map": "/reactinterface/static/js/main.cecebb37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b960804.css",
+    "static/js/main.cecebb37.js"
+  ]
+}
